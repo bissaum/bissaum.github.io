@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_1096" data-name="Retângulo 1096" width="30" height="30" transform="translate(435 412)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_de_máscara_242" data-name="Grupo de máscara 242" transform="translate(-435 -412)" clip-path="url(#clip-path)">
+    <g id="Camada_2" data-name="Camada 2" transform="translate(435 412)">
+      <g id="Camada_51" data-name="Camada 51">
+        <g id="Camada_52" data-name="Camada 52">
+          <path id="Caminho_856" data-name="Caminho 856" d="M6.883,11.467h0V11.35a.283.283,0,0,1,0,.117Z"/>
+          <path id="Caminho_857" data-name="Caminho 857" d="M9.45,11.35v.117h0a.283.283,0,0,1,0-.117Z"/>
+          <path id="Caminho_858" data-name="Caminho 858" d="M20.583,11.467h0V11.35a.283.283,0,0,1,0,.117Z"/>
+          <path id="Caminho_859" data-name="Caminho 859" d="M23.15,11.35v.117h0a.283.283,0,0,1,0-.117Z"/>
+          <path id="Caminho_860" data-name="Caminho 860" d="M6.883,11.467a.283.283,0,0,1,0,.117V11.35a.283.283,0,0,1,0,.117Z"/>
+          <path id="Caminho_861" data-name="Caminho 861" d="M9.45,11.35v.317a.417.417,0,0,1,0-.233Z"/>
+          <path id="Caminho_862" data-name="Caminho 862" d="M13.75,11.467a2.05,2.05,0,0,1,0,.333A2.234,2.234,0,0,1,13.75,11.467Z"/>
+          <path id="Caminho_863" data-name="Caminho 863" d="M16.317,11.467a2.233,2.233,0,0,1,0,.333A2.05,2.05,0,0,1,16.317,11.467Z"/>
+          <path id="Caminho_864" data-name="Caminho 864" d="M20.583,11.467a.283.283,0,0,1,0,.117V11.35a.283.283,0,0,1,0,.117Z"/>
+          <path id="Caminho_865" data-name="Caminho 865" d="M23.15,11.35v.317a.417.417,0,0,1,0-.233Z"/>
+          <path id="Caminho_866" data-name="Caminho 866" d="M29.3,8.967h0L27.216,1.8A2.483,2.483,0,0,0,24.8,0H5.233a2.483,2.483,0,0,0-2.4,1.783L.767,8.9h0L0,11.467v0a4.7,4.7,0,0,0,1.667,3.617V27.5A2.5,2.5,0,0,0,4.183,30H25.85a2.5,2.5,0,0,0,2.483-2.5V15A4.683,4.683,0,0,0,30,11.4Zm-8.733,2.5V11.35a.417.417,0,0,1,0,.233A2.15,2.15,0,0,1,16.3,11.8a2.05,2.05,0,0,1,0-.333ZM4.733,13.633a2.167,2.167,0,0,1-2.167-2.167h4.3V11.35a.417.417,0,0,1,0,.233,2.15,2.15,0,0,1-2.133,2.05Zm8.6,13.867H10.85V20.4H8.75v7.1H6.25V20.4a2.5,2.5,0,0,1,2.5-2.5h2.1a2.5,2.5,0,0,1,2.483,2.5ZM13.7,11.8a2.15,2.15,0,0,1-4.25-.133.417.417,0,0,1,0-.233v.117h4.3a2.05,2.05,0,0,1-.033.25Zm10,11.133a2.5,2.5,0,0,1-2.5,2.5H18.367a2.5,2.5,0,0,1-2.5-2.5V20.4a2.5,2.5,0,0,1,2.5-2.5H21.2a2.5,2.5,0,0,1,2.5,2.5Zm1.5-9.3a2.15,2.15,0,0,1-2.05-1.967.417.417,0,0,1,0-.233v.117h4.3a2.167,2.167,0,0,1-2.167,2.083Z"/>
+          <rect id="Retângulo_1097" data-name="Retângulo 1097" width="2.833" height="2.533" transform="translate(18.45 20.4)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

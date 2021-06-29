@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_486" data-name="Retângulo 486" width="30" height="30" fill="#fff" stroke="#eee" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Icone_1" data-name="Icone 1" transform="translate(-381 -298)" style="isolation: isolate">
+    <g id="Icone" transform="translate(20 85)" style="isolation: isolate">
+      <g id="Icon" transform="translate(361 213)" style="isolation: isolate">
+        <g id="guide">
+          <g id="Grupo_de_máscara_124" data-name="Grupo de máscara 124" clip-path="url(#clip-path)">
+            <g id="Camada_2" data-name="Camada 2" transform="translate(3)">
+              <g id="Lixo">
+                <path id="Caminho_254" data-name="Caminho 254" d="M15.75,0H8.25A2.25,2.25,0,0,0,6,2.25v1.5H8.25V2.25h7.5v1.5H18V2.25A2.25,2.25,0,0,0,15.75,0Z"/>
+                <path id="Caminho_255" data-name="Caminho 255" d="M21.75,12h-1.5V27.75H3.75V12H2.25a2.085,2.085,0,0,1-.75-.135V27.75A2.25,2.25,0,0,0,3.75,30h16.5a2.25,2.25,0,0,0,2.25-2.25V11.865a2.085,2.085,0,0,1-.75.135Z"/>
+                <path id="Caminho_256" data-name="Caminho 256" d="M21.75,3.75H2.25A2.25,2.25,0,0,0,0,6V9.75a2.25,2.25,0,0,0,1.5,2.115A2.085,2.085,0,0,0,2.25,12h19.5a2.085,2.085,0,0,0,.75-.135A2.25,2.25,0,0,0,24,9.75V6A2.25,2.25,0,0,0,21.75,3.75Zm0,6H2.25V6h19.5Z"/>
+                <line id="Linha_29" data-name="Linha 29" y1="9" transform="translate(7.5 15.75)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2.25"/>
+                <line id="Linha_30" data-name="Linha 30" y1="9" transform="translate(12 15.75)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2.25"/>
+                <line id="Linha_31" data-name="Linha 31" y1="9" transform="translate(16.5 15.75)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2.25"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_531" data-name="Retângulo 531" width="30" height="30" transform="translate(380 297)" fill="#ab4949" opacity="0.3"/>
+    </clipPath>
+  </defs>
+  <g id="Icone_1" data-name="Icone 1" transform="translate(-380 -297)" style="isolation: isolate">
+    <g id="Grupo_de_máscara_80" data-name="Grupo de máscara 80" clip-path="url(#clip-path)">
+      <g id="os_trem" data-name="os trem" transform="translate(374.983 291.971)">
+        <path id="user_preenchido" data-name="user preenchido" d="M33.245,35.029a16.33,16.33,0,0,0-8.691-14.479,8.424,8.424,0,1,0-9.074,0A16.33,16.33,0,0,0,6.789,35.029Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

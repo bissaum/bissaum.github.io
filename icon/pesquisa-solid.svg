@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_486" data-name="Retângulo 486" width="30" height="30" fill="#fff" stroke="#eee" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Icone_1" data-name="Icone 1" transform="translate(-381 -298)" style="isolation: isolate">
+    <g id="Icone" transform="translate(20 85)" style="isolation: isolate">
+      <g id="Icon" transform="translate(361 213)" style="isolation: isolate">
+        <g id="guide">
+          <g id="Grupo_de_máscara_1" data-name="Grupo de máscara 1" clip-path="url(#clip-path)">
+            <g id="Camada_2" data-name="Camada 2" transform="translate(-0.029 -0.062)">
+              <g id="lupa">
+                <path id="Caminho_3" data-name="Caminho 3" d="M29.723,27.925l-7.172-7.172a12.652,12.652,0,0,0-17.8-17.8A11.258,11.258,0,0,0,2.882,4.68a12.652,12.652,0,0,0,17.8,17.8l7.172,7.172a1.273,1.273,0,0,0,1.865-1.729ZM18.956,20.753A10.173,10.173,0,0,1,4.68,6.477a11.258,11.258,0,0,1,1.8-1.8A10.173,10.173,0,0,1,20.753,18.956a11.258,11.258,0,0,1-1.8,1.8Z"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

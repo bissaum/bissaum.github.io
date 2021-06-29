@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_543" data-name="Retângulo 543" width="30" height="30" transform="translate(381 298)" fill="#fff" stroke="#eee" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Icone_1" data-name="Icone 1" transform="translate(-381 -298)" style="isolation: isolate">
+    <g id="Grupo_de_máscara_122" data-name="Grupo de máscara 122" clip-path="url(#clip-path)">
+      <g id="Camada_2" data-name="Camada 2" transform="translate(381.05 298)">
+        <g id="Camada_21_cópia_cópia_2" data-name="Camada 21 cópia cópia 2">
+          <path id="Caminho_248" data-name="Caminho 248" d="M27.409,2.193H22.89V1.246a1.246,1.246,0,0,0-2.492,0v.947H9.5V1.246a1.246,1.246,0,0,0-2.492,0v.947H2.492A2.492,2.492,0,0,0,0,4.684V27.508A2.492,2.492,0,0,0,2.492,30H27.409A2.492,2.492,0,0,0,29.9,27.508V4.684a2.492,2.492,0,0,0-2.492-2.492Zm0,25.316H2.492V10.9H27.409Zm0-19.07H2.492V4.684H7.01v.947a1.246,1.246,0,0,0,2.492,0V4.684H20.4v.947a1.246,1.246,0,0,0,2.492,0V4.684h4.518Z"/>
+          <g id="Camada_33_cópia" data-name="Camada 33 cópia">
+            <path id="Caminho_249" data-name="Caminho 249" d="M12.425,25.1,7.874,20.565a1.246,1.246,0,0,1,0-1.761,1.229,1.229,0,0,1,1.761,0l2.791,2.791,7.841-7.857A1.246,1.246,0,0,1,22.027,15.5Z"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

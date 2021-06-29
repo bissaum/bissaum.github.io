@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_541" data-name="Retângulo 541" width="30" height="30" transform="translate(381 298)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Icone_1" data-name="Icone 1" transform="translate(-381 -298)" style="isolation: isolate">
+    <g id="Grupo_de_máscara_119" data-name="Grupo de máscara 119" clip-path="url(#clip-path)">
+      <g id="Camada_2" data-name="Camada 2" transform="translate(381.05 298)">
+        <g id="Camada_21_cópia_cópia" data-name="Camada 21 cópia cópia">
+          <path id="Caminho_239" data-name="Caminho 239" d="M27.409,2.193H22.89V1.246a1.246,1.246,0,0,0-2.492,0v.947H9.5V1.246a1.246,1.246,0,0,0-2.492,0v.947H2.492A2.492,2.492,0,0,0,0,4.684V27.508A2.492,2.492,0,0,0,2.492,30H27.409A2.492,2.492,0,0,0,29.9,27.508V4.684a2.492,2.492,0,0,0-2.492-2.492Zm0,25.316H2.492V10.9H27.409Zm0-19.07H2.492V4.684H7.01v.947a1.246,1.246,0,0,0,2.492,0V4.684H20.4v.947a1.246,1.246,0,0,0,2.492,0V4.684h4.518Z"/>
+          <rect id="Retângulo_576" data-name="Retângulo 576" width="3.953" height="3.405" rx="0.831" transform="translate(10.166 12.99)"/>
+          <rect id="Retângulo_577" data-name="Retângulo 577" width="3.953" height="3.405" rx="0.831" transform="translate(15.781 12.99)"/>
+          <rect id="Retângulo_578" data-name="Retângulo 578" width="3.953" height="3.405" rx="0.831" transform="translate(21.395 12.99)"/>
+          <rect id="Retângulo_579" data-name="Retângulo 579" width="3.953" height="3.405" rx="0.831" transform="translate(4.551 17.525)"/>
+          <rect id="Retângulo_580" data-name="Retângulo 580" width="3.953" height="3.405" rx="0.831" transform="translate(10.166 17.525)"/>
+          <rect id="Retângulo_581" data-name="Retângulo 581" width="3.953" height="3.405" rx="0.831" transform="translate(15.781 17.525)"/>
+          <rect id="Retângulo_582" data-name="Retângulo 582" width="3.953" height="3.405" rx="0.831" transform="translate(21.395 17.525)"/>
+          <rect id="Retângulo_583" data-name="Retângulo 583" width="3.953" height="3.405" rx="0.831" transform="translate(4.551 22.076)"/>
+          <rect id="Retângulo_584" data-name="Retângulo 584" width="3.953" height="3.405" rx="0.831" transform="translate(10.166 22.076)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

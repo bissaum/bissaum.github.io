@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_486" data-name="Retângulo 486" width="30" height="30" fill="#fff" stroke="#eee" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Icone_1" data-name="Icone 1" transform="translate(-381 -298)" style="isolation: isolate">
+    <g id="Icone" transform="translate(20 85)" style="isolation: isolate">
+      <g id="Icon" transform="translate(361 213)" style="isolation: isolate">
+        <g id="guide">
+          <g id="Grupo_de_máscara_25" data-name="Grupo de máscara 25" clip-path="url(#clip-path)">
+            <g id="visualizar" transform="translate(-2.91 -3.06)">
+              <path id="Caminho_21" data-name="Caminho 21" d="M4.03,17.91S8.806,8.657,17.91,8.657,31.791,17.91,31.791,17.91s-3.582,9.552-13.881,9.552S4.03,17.91,4.03,17.91Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.239"/>
+              <circle id="Elipse_9" data-name="Elipse 9" cx="4.925" cy="4.925" r="4.925" transform="translate(12.985 12.985)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.239"/>
+              <circle id="Elipse_10" data-name="Elipse 10" cx="2.09" cy="2.09" r="2.09" transform="translate(15.821 15.821)"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

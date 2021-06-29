@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="31" height="31" viewBox="0 0 31 31">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_1100" data-name="Retângulo 1100" width="31" height="31" transform="translate(1486 1047)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_de_máscara_249" data-name="Grupo de máscara 249" transform="translate(-1486 -1047)" clip-path="url(#clip-path)">
+    <g id="Camada_2" data-name="Camada 2" transform="translate(1486.065 1047)">
+      <g id="Camada_67" data-name="Camada 67">
+        <path id="Caminho_873" data-name="Caminho 873" d="M30.588,10.975,26.964,14.6l-5.7,5.7a.945.945,0,0,1-.653.309.979.979,0,0,1-.962-.962V14.6H15.457a1.717,1.717,0,0,1-1.717-1.717V7.729a1.717,1.717,0,0,1,1.717-1.717H19.63V.979A.979.979,0,0,1,20.609,0,1.03,1.03,0,0,1,21.3.292l5.685,5.719,3.607,3.607A.962.962,0,0,1,30.588,10.975Z"/>
+        <path id="Caminho_874" data-name="Caminho 874" d="M.275,21.382,3.9,24.989l5.7,5.719a1.03,1.03,0,0,0,.687.292.979.979,0,0,0,.962-.979V24.989h4.208a1.717,1.717,0,0,0,1.717-1.717V18.119A1.717,1.717,0,0,0,15.457,16.4H11.249V11.37a.979.979,0,0,0-.945-.962.945.945,0,0,0-.687.292L3.9,16.4.275,20.025a.979.979,0,0,0,0,1.357ZM7.54,16.4l1.134-1.134v3.71h5.891v3.435H8.673V26.14L7.54,24.989,4.963,22.413,3.246,20.7Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

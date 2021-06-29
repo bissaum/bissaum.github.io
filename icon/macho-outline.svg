@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_486" data-name="Retângulo 486" width="30" height="30" fill="#fff" stroke="#eee" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Icon" style="isolation: isolate">
+    <g id="guide">
+      <g id="Grupo_de_máscara_269" data-name="Grupo de máscara 269" clip-path="url(#clip-path)">
+        <g id="Camada_2" data-name="Camada 2" transform="translate(-0.081 0.002)">
+          <g id="Camada_70" data-name="Camada 70">
+            <path id="Caminho_989" data-name="Caminho 989" d="M27.884,0H19.772a1.284,1.284,0,0,0-1.183,1.267,1.284,1.284,0,0,0,1.267,1.267h5.9L19.333,8.957a11.829,11.829,0,1,0,1.791,1.791l6.422-6.422v5.932a1.267,1.267,0,1,0,2.535,0V2.112A2.112,2.112,0,0,0,27.884,0Zm-6.76,18.167a9.295,9.295,0,1,1-9.295-9.295,9.295,9.295,0,0,1,9.295,9.295Z"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

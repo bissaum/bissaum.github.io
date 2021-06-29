@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_486" data-name="Retângulo 486" width="30" height="30" fill="#fff" stroke="#eee" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Icone_1" data-name="Icone 1" transform="translate(-381 -298)" style="isolation: isolate">
+    <g id="Icone" transform="translate(20 85)" style="isolation: isolate">
+      <g id="Icon" transform="translate(361 213)" style="isolation: isolate">
+        <g id="guide">
+          <g id="Grupo_de_máscara_75" data-name="Grupo de máscara 75" clip-path="url(#clip-path)">
+            <g id="Camada_2" data-name="Camada 2" transform="translate(0 3)">
+              <g id="Camada_21" data-name="Camada 21">
+                <path id="Caminho_120" data-name="Caminho 120" d="M27.75,4.5H23.01l-1.365-3A2.22,2.22,0,0,0,19.71,0H10.125a2.235,2.235,0,0,0-1.98,1.5l-1.23,3H2.25A2.25,2.25,0,0,0,0,6.75v15A2.25,2.25,0,0,0,2.25,24h25.5A2.25,2.25,0,0,0,30,21.75v-15A2.25,2.25,0,0,0,27.75,4.5Zm0,17.25H2.25v-15H8.445L9.36,4.5h0l.465-1.11.27-.645.12-.315a.66.66,0,0,1,.09-.15h9.2a.885.885,0,0,1,0,.12l.15.315L20.535,4.5h0l.99,2.22H27.75Z"/>
+                <path id="Caminho_121" data-name="Caminho 121" d="M15,10.5A3.75,3.75,0,0,1,15,18a4.29,4.29,0,0,1-1.05-.135A3.69,3.69,0,0,1,11.385,15.3,3.765,3.765,0,0,1,15,10.5m0-2.25a6,6,0,0,0-1.635,11.775A6.3,6.3,0,0,0,15,20.25a6,6,0,0,0,0-12Z"/>
+                <line id="Linha_24" data-name="Linha 24" x1="0.45" y2="1.11" transform="translate(9.375 3.36)" fill="none"/>
+                <path id="Caminho_122" data-name="Caminho 122" d="M24.375,9A1.125,1.125,0,1,0,25.5,10.125,1.14,1.14,0,0,0,24.375,9Z"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

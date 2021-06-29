@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_486" data-name="Retângulo 486" width="30" height="30" fill="#fff" stroke="#eee" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Icone" transform="translate(-361 -213)" style="isolation: isolate">
+    <g id="Icon" transform="translate(361 213)" style="isolation: isolate">
+      <g id="guide">
+        <g id="Grupo_de_máscara_273" data-name="Grupo de máscara 273" clip-path="url(#clip-path)">
+          <g id="Camada_2" data-name="Camada 2" transform="translate(0.002 0.819)">
+            <g id="Camada_74_cópia" data-name="Camada 74 cópia">
+              <path id="Caminho_996" data-name="Caminho 996" d="M29.995,9.582a12.248,12.248,0,0,1-2.983,7.765,64.04,64.04,0,0,1-7.465,7.432c-1.033.933-2.2,1.983-3.333,3.116a1.666,1.666,0,0,1-2.316,0c-1.216-1.133-2.4-2.183-3.433-3.116a65.089,65.089,0,0,1-7.449-7.432A12.248,12.248,0,0,1,0,9.582a10.332,10.332,0,0,1,2.383-6.8A7.832,7.832,0,0,1,8.332,0a7.265,7.265,0,0,1,4.783,1.666A10.165,10.165,0,0,1,15,3.849,9.782,9.782,0,0,1,16.93,1.666,7.265,7.265,0,0,1,21.663,0a7.882,7.882,0,0,1,6,2.783,10.332,10.332,0,0,1,2.333,6.8Z"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

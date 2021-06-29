@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_533" data-name="Retângulo 533" width="30" height="30" transform="translate(709 1017)" fill="#ab4949" opacity="0.3"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_de_máscara_79" data-name="Grupo de máscara 79" transform="translate(-709 -1017)" clip-path="url(#clip-path)">
+    <g id="os_trem" data-name="os trem" transform="translate(703.984 1011.936)">
+      <path id="_preenchido" data-name="+ preenchido" d="M34.246,18.853a.919.919,0,0,0-.3,0H21.31V6.2h0a1.27,1.27,0,0,0-2.457-.3.919.919,0,0,0,0,.3h0V18.836H6.3a1.254,1.254,0,0,0-.435,2.44,1.2,1.2,0,0,0,.418,0H18.8v12.5a1.254,1.254,0,0,0,2.44.435,1.2,1.2,0,0,0,0-.418h0V21.31H33.879a1.27,1.27,0,0,0,.3-2.457Z"/>
+    </g>
+  </g>
+</svg>

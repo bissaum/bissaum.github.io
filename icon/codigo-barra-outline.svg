@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_486" data-name="Retângulo 486" width="30" height="30" fill="#fff" stroke="#eee" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Icone_1" data-name="Icone 1" transform="translate(-381 -298)" style="isolation: isolate">
+    <g id="Icone" transform="translate(20 85)" style="isolation: isolate">
+      <g id="Icon" transform="translate(361 213)" style="isolation: isolate">
+        <g id="guide">
+          <g id="Grupo_de_máscara_2" data-name="Grupo de máscara 2" clip-path="url(#clip-path)">
+            <g id="Camada_2" data-name="Camada 2" transform="translate(0 3)">
+              <g id="codigo-barras">
+                <path id="Caminho_4" data-name="Caminho 4" d="M27.75,2.25v19.5H2.25V2.25h25.5m0-2.25H2.25A2.25,2.25,0,0,0,0,2.25v19.5A2.25,2.25,0,0,0,2.25,24h25.5A2.25,2.25,0,0,0,30,21.75V2.25A2.25,2.25,0,0,0,27.75,0Z"/>
+                <g id="Grupo_1" data-name="Grupo 1" transform="translate(-0.25)">
+                  <rect id="Retângulo_487" data-name="Retângulo 487" width="2.25" height="13.5" rx="1.125" transform="translate(5.25 5.25)"/>
+                  <rect id="Retângulo_488" data-name="Retângulo 488" width="2.25" height="11.25" rx="1.125" transform="translate(9.75 5.25)"/>
+                  <rect id="Retângulo_489" data-name="Retângulo 489" width="2.25" height="11.25" rx="1.125" transform="translate(14.25 5.25)"/>
+                  <rect id="Retângulo_490" data-name="Retângulo 490" width="2.25" height="11.25" rx="1.125" transform="translate(18.75 5.25)"/>
+                  <rect id="Retângulo_491" data-name="Retângulo 491" width="2.25" height="13.5" rx="1.125" transform="translate(23.25 5.25)"/>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
